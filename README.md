@@ -1,7 +1,7 @@
 # RockPaperScissorsGame
 This is a Rock Paper Scissors game made in python
 
-Dependencies are needed to run the game! Currently working on adding those and an exe launcher for windows.
+Created an exe file to run the game. Clone the repository to your computer or download the zip file. The exe should be located in the dist folder. Enjoy!
 
 
-***Mac support comming soon!!
+*** Still working on Mac Support
